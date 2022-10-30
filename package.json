@@ -1,0 +1,10 @@
+{
+  "ngPackage": {
+    "lib": {
+      "entryFile": "public-api.ts"
+    }
+  },
+  "peerDependencies": {
+    "@types/google.maps": "3.48.7"
+  }
+}
